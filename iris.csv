@@ -1,0 +1,5 @@
+sepal.length sepal.width petal.length petal.width variety
+0 ,5.1 ,1.4,0.2,setosa
+1 ,4.9,3.0,1.4,setosa
+2,4.5,2.0,1.5,setosa
+3,4.3,2.1,4,verginica
